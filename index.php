@@ -20,8 +20,8 @@
         <section class="max-h-[500px] overflow-y-auto m-4">
             <nav class="flex flex-col gap-4 items-center">
                 <a href="01-class.php" class="text-black p-2 bg-blue-400 rounded w-[200px] hover:scale-105 transition opacity-80 hover:opacity-100">01 Class</a>
-                <a href="" class="text-black p-2 bg-blue-400 rounded w-[200px] hover:scale-105 transition opacity-80 hover:opacity-100">02 Construct</a>
-                <a href="" class="text-black p-2 bg-blue-400 rounded w-[200px] hover:scale-105 transition opacity-80 hover:opacity-100">03 Private</a>
+                <a href="02-construct.php" class="text-black p-2 bg-blue-400 rounded w-[200px] hover:scale-105 transition opacity-80 hover:opacity-100">02 Construct</a>
+                <a href="03-private.php" class="text-black p-2 bg-blue-400 rounded w-[200px] hover:scale-105 transition opacity-80 hover:opacity-100">03 Private</a>
                 <a href="" class="text-black p-2 bg-blue-400 rounded w-[200px] hover:scale-105 transition opacity-80 hover:opacity-100">04 Collaboration</a>
                 <a href="" class="text-black p-2 bg-blue-400 rounded w-[200px] hover:scale-105 transition opacity-80 hover:opacity-100">05 Parameters</a>
                 <a href="" class="text-black p-2 bg-blue-400 rounded w-[200px] hover:scale-105 transition opacity-80 hover:opacity-100">06 Extends</a>
